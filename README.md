@@ -1,5 +1,4 @@
 # JSON Parser
-![Build Status](https://img.shields.io/travis/reuben-haug/json_parser/main)
 ![Coverage](https://img.shields.io/codecov/c/github/reuben-haug/json_parser)
 ![License](https://img.shields.io/github/license/reuben-haug/json_parser)
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
